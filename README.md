@@ -18,7 +18,7 @@
 18. 경사하강법 의미는? (확률적 경사하강법, 배치 경사하강법, 미치 배치경사하강법)![KakaoTalk_20240331_144803151_17](https://github.com/qpweasd/AI-class/assets/162864993/08a1d912-40d9-4a5c-9aea-0bce22d74e7b)
 19. 교차검증, K-fold 교차검증의 의미와 차이![KakaoTalk_20240331_144803151_18](https://github.com/qpweasd/AI-class/assets/162864993/7dd3da86-2213-4a53-a70e-ed88a93a0477)
 20. 하이퍼파라미터 튜닝이란 무엇인가?![KakaoTalk_20240331_144803151_19](https://github.com/qpweasd/AI-class/assets/162864993/182d9214-2a2a-4346-bc1a-92c4e8044996)
-21. CNN의 합성곱의 역활은?
+21. CNN의 합성곱의 역활은? ![Uploading 스크린샷 2024-05-30 13.37.09.png…]()
 22. ﻿﻿﻿﻿CNN의 풀링층의 역활은?
 23. ﻿﻿﻿﻿CNN의 Dense Layer의 역활은?
 24. ﻿﻿﻿﻿CNN의 stride, filter의 역활? 필터의 가중치는 어떻게 결정되는가?

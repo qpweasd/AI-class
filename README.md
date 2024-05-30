@@ -18,13 +18,13 @@
 18. 경사하강법 의미는? (확률적 경사하강법, 배치 경사하강법, 미치 배치경사하강법)![KakaoTalk_20240331_144803151_17](https://github.com/qpweasd/AI-class/assets/162864993/08a1d912-40d9-4a5c-9aea-0bce22d74e7b)
 19. 교차검증, K-fold 교차검증의 의미와 차이![KakaoTalk_20240331_144803151_18](https://github.com/qpweasd/AI-class/assets/162864993/7dd3da86-2213-4a53-a70e-ed88a93a0477)
 20. 하이퍼파라미터 튜닝이란 무엇인가?![KakaoTalk_20240331_144803151_19](https://github.com/qpweasd/AI-class/assets/162864993/182d9214-2a2a-4346-bc1a-92c4e8044996)
-21. CNN의 합성곱의 역활은? 
-22. ﻿﻿﻿﻿CNN의 풀링층의 역활은?
-23. ﻿﻿﻿﻿CNN의 Dense Layer의 역활은?
-24. ﻿﻿﻿﻿CNN의 stride, filter의 역활? 필터의 가중치는 어떻게 결정되는가?
-25. ﻿﻿﻿﻿RNN을 사용하는 이유와 한계점은?
-26. ﻿﻿﻿﻿LSTM을 사용하는 이유와 한계점은?
-27. ﻿﻿﻿﻿GRU을 사용하는 이유와 차별성은?
+21. CNN의 합성곱의 역활은? <img width="1159" alt="스크린샷 2024-05-30 13 37 09" src="https://github.com/qpweasd/AI-class/assets/162864993/5ba91627-4b86-42bd-9615-28312afd3fa5">
+22. ﻿﻿﻿﻿CNN의 풀링층의 역활은? <img width="1166" alt="스크린샷 2024-05-30 13 55 56" src="https://github.com/qpweasd/AI-class/assets/162864993/f0c90bda-a77f-4351-804a-90ee52376462">
+23. ﻿﻿﻿﻿CNN의 Dense Layer의 역활은? <img width="1161" alt="스크린샷 2024-05-30 13 59 10" src="https://github.com/qpweasd/AI-class/assets/162864993/6e060a1a-6674-4e8f-9c97-f07b7281d977">
+24. ﻿﻿﻿﻿CNN의 stride, filter의 역활? 필터의 가중치는 어떻게 결정되는가? <img width="1155" alt="스크린샷 2024-05-30 14 05 55" src="https://github.com/qpweasd/AI-class/assets/162864993/901a72c9-7d93-4bfc-bcbb-58765c438cb0">
+25. ﻿﻿﻿﻿RNN을 사용하는 이유와 한계점은? <img width="1155" alt="스크린샷 2024-05-30 14 11 11" src="https://github.com/qpweasd/AI-class/assets/162864993/2dd77cce-591c-4c02-b906-111496fc76fa">
+26. ﻿﻿﻿﻿LSTM을 사용하는 이유와 한계점은? <img width="1160" alt="스크린샷 2024-05-30 14 17 05" src="https://github.com/qpweasd/AI-class/assets/162864993/89f3e6bb-db00-4360-9a45-9f810ea6114f">
+27. ﻿﻿﻿﻿GRU을 사용하는 이유와 차별성은? <img width="1161" alt="스크린샷 2024-05-30 14 22 14" src="https://github.com/qpweasd/AI-class/assets/162864993/4dc70b2a-6695-4c2d-bd09-4602ed6e7569">
 28. ﻿﻿﻿﻿결정트리에서 불순도(Impurity) - 지니 계수(Gini Index)란 무엇인가?
 29. ﻿﻿﻿﻿앙상블이란 무엇인가?
 30. ﻿﻿﻿﻿부트 스트랩핑(bootstraping)이란 무엇인가?

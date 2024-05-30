@@ -25,9 +25,9 @@
 25. ﻿﻿﻿﻿RNN을 사용하는 이유와 한계점은? <img width="1155" alt="스크린샷 2024-05-30 14 11 11" src="https://github.com/qpweasd/AI-class/assets/162864993/2dd77cce-591c-4c02-b906-111496fc76fa">
 26. ﻿﻿﻿﻿LSTM을 사용하는 이유와 한계점은? <img width="1160" alt="스크린샷 2024-05-30 14 17 05" src="https://github.com/qpweasd/AI-class/assets/162864993/89f3e6bb-db00-4360-9a45-9f810ea6114f">
 27. ﻿﻿﻿﻿GRU을 사용하는 이유와 차별성은? <img width="1161" alt="스크린샷 2024-05-30 14 22 14" src="https://github.com/qpweasd/AI-class/assets/162864993/4dc70b2a-6695-4c2d-bd09-4602ed6e7569">
-28. ﻿﻿﻿﻿결정트리에서 불순도(Impurity) - 지니 계수(Gini Index)란 무엇인가?
-29. ﻿﻿﻿﻿앙상블이란 무엇인가?
-30. ﻿﻿﻿﻿부트 스트랩핑(bootstraping)이란 무엇인가?
-31. ﻿﻿﻿﻿배깅(Bagging)이란 무엇인가?
-32. ﻿﻿﻿﻿주성분 분석(PCA) 이란 무엇인가?
-33. ﻿﻿﻿﻿Dense Layer란 무엇인가?
+28. ﻿﻿﻿﻿결정트리에서 불순도(Impurity) - 지니 계수(Gini Index)란 무엇인가? <img width="747" alt="스크린샷 2024-05-30 14 37 19" src="https://github.com/qpweasd/AI-class/assets/162864993/4dbaf45f-10d2-4539-b0e6-5547fc17c8dd">
+29. ﻿﻿﻿﻿앙상블이란 무엇인가? <img width="1151" alt="스크린샷 2024-05-30 14 40 11" src="https://github.com/qpweasd/AI-class/assets/162864993/46e47822-a0bd-4827-9881-cdee5d03e735">
+30. ﻿﻿﻿﻿부트 스트랩핑(bootstraping)이란 무엇인가? <img width="1119" alt="스크린샷 2024-05-30 14 41 50" src="https://github.com/qpweasd/AI-class/assets/162864993/7200a1cf-9657-4c17-af69-5df5644f254a">
+31. ﻿﻿﻿﻿배깅(Bagging)이란 무엇인가? <img width="1142" alt="스크린샷 2024-05-30 14 44 00" src="https://github.com/qpweasd/AI-class/assets/162864993/286d81d6-87b3-447a-9e39-6b5f4e70e1ad">
+32. ﻿﻿﻿﻿주성분 분석(PCA) 이란 무엇인가? <img width="1154" alt="스크린샷 2024-05-30 14 45 14" src="https://github.com/qpweasd/AI-class/assets/162864993/d41d6abe-904a-4e7f-9015-e123ed91b98e">
+33. ﻿﻿﻿﻿Dense Layer란 무엇인가? <img width="1149" alt="스크린샷 2024-05-30 14 46 38" src="https://github.com/qpweasd/AI-class/assets/162864993/6d9426fd-673f-4bdd-aa72-e1d5e597a0d6">
